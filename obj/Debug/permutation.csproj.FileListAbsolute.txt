@@ -1,0 +1,7 @@
+C:\Users\nrobl\source\repos\permutation\bin\Debug\permutation.exe.config
+C:\Users\nrobl\source\repos\permutation\bin\Debug\permutation.exe
+C:\Users\nrobl\source\repos\permutation\bin\Debug\permutation.pdb
+C:\Users\nrobl\source\repos\permutation\obj\Debug\permutation.csprojResolveAssemblyReference.cache
+C:\Users\nrobl\source\repos\permutation\obj\Debug\permutation.csproj.CoreCompileInputs.cache
+C:\Users\nrobl\source\repos\permutation\obj\Debug\permutation.exe
+C:\Users\nrobl\source\repos\permutation\obj\Debug\permutation.pdb
